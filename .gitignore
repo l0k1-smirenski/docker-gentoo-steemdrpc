@@ -1,0 +1,10 @@
+block_log*
+shared_memory*
+*.log
+config.ini
+*.json
+config
+config.ini
+config.py
+*.pyc
+__pycache__
